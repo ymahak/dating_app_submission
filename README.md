@@ -1,4 +1,4 @@
-# Dating App Match Predictor - Assignment Submission
+# Dating App Match Predictor 
 
 ## Files
 
@@ -36,10 +36,3 @@ streamlit run app.py
 
 - Set `GROQ_API_KEY` in your environment to enable LLM-generated explanations.
 - Without the key, the app still works and shows a deterministic fallback explanation.
-
-## Deployment (Task 3C)
-
-1. Push this project to a public GitHub repository.
-2. Deploy on Streamlit Community Cloud: [share.streamlit.io](https://share.streamlit.io)
-3. Set `GROQ_API_KEY` in Streamlit secrets/environment (optional but recommended).
-4. Add your final live URL to `ASSIGNMENT_REPORT.md` before submitting.
