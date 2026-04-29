@@ -1,4 +1,4 @@
-# AI / Backend Engineer Assignment - April 2026
+# AI / Backend Engineer Assignment 
 
 ## Task 1 - Data Preprocessing
 
@@ -66,9 +66,9 @@ Run locally:
 streamlit run app.py
 ```
 
-Deploy to Streamlit Community Cloud and place your public URL here before submission:
+Deploy to Streamlit Community Cloud:
 
-`<YOUR_STREAMLIT_APP_LINK>`
+`https://dating-app04.streamlit.app/`
 
 ## Task 4 - Research and Improvement Plan
 
