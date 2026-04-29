@@ -1,0 +1,56 @@
+[
+  {
+    "row_id": 3625,
+    "predicted_label": 0,
+    "confidence": 0.40738071842247675,
+    "input_profile": {
+      "gender": "Transgender",
+      "sexual_orientation": "Gay",
+      "location_type": "Suburban",
+      "income_bracket": "Middle",
+      "education_level": "PhD",
+      "app_usage_time_min": 197,
+      "app_usage_time_label": "Extreme User",
+      "swipe_right_ratio": 0.72,
+      "swipe_right_label": "Swipe Maniac",
+      "likes_received": 165,
+      "mutual_matches": 16,
+      "profile_pics_count": 2,
+      "bio_length": 99,
+      "message_sent_count": 77,
+      "emoji_usage_rate": 0.37,
+      "last_active_hour": 0,
+      "interest_count": 3,
+      "engagement_score": 75.95,
+      "activity_score": 141.84,
+      "profile_completeness": 0.2521333333333333
+    }
+  },
+  {
+    "row_id": 40613,
+    "predicted_label": 0,
+    "confidence": 0.3810427927029592,
+    "input_profile": {
+      "gender": "Prefer Not to Say",
+      "sexual_orientation": "Gay",
+      "location_type": "Remote Area",
+      "income_bracket": "Very High",
+      "education_level": "Associate\u2019s",
+      "app_usage_time_min": 137,
+      "app_usage_time_label": "Addicted",
+      "swipe_right_ratio": 0.51,
+      "swipe_right_label": "Optimistic",
+      "likes_received": 139,
+      "mutual_matches": 20,
+      "profile_pics_count": 3,
+      "bio_length": 277,
+      "message_sent_count": 72,
+      "emoji_usage_rate": 0.34,
+      "last_active_hour": 9,
+      "interest_count": 3,
+      "engagement_score": 68.69999999999999,
+      "activity_score": 69.87,
+      "profile_completeness": 0.5324
+    }
+  }
+]
